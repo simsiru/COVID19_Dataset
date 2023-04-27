@@ -6,4 +6,4 @@ The aim of this project is to perform exploratory data analysis and figure out p
 
 ### Technologies
 
-Typical data science tools were used like `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`.
+- Typical data science tools - `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`.
